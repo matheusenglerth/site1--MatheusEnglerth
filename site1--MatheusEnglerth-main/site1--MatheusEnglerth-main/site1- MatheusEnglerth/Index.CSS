@@ -1,0 +1,11 @@
+body{
+   color:black
+    background-color: darkmagenta;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+
+}
